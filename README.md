@@ -1,4 +1,4 @@
-## Hi 👋, I'm Hannah!
+## 👋 Hi, I'm Hannah!
 
 🏢 I’m currently working at Simply Business as a Senior Insurance Product Technician
 
@@ -7,6 +7,10 @@
 ### 📫 How to reach me? 
 📧 Drop me an email at hannah.phillips@simplybusiness.co.uk
 🖇️ Connect with me on [LinkedIn](www.linkedin.com/in/hannah-phillips-cert-cii-103aa03b)
+
+### Resources to level up:
+- [Codecademy](https://www.codecademy.com/profiles/hannahPhillips4226153778)
+- [CodeWars](https://www.codewars.com/users/Hannah0701)
 
 ### Languages and Tools
 

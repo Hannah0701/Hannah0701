@@ -15,4 +15,4 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,git,ruby,js,html,css,gherkin,sublime,vscode,mongodb,aws,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,ruby,js,html,css,gherkin,nodejs,npm,sqlite,react,sublime,vscode,mongodb,aws,jenkins)](https://skillicons.dev)

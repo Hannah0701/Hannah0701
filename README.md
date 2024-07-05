@@ -12,6 +12,7 @@
 ### Resources to level up:
 - [Codecademy](https://www.codecademy.com/profiles/hannahPhillips4226153778)
 - [CodeWars](https://www.codewars.com/users/Hannah0701)
+- [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
 
 ### Languages and Tools
 

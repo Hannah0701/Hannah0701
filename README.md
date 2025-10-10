@@ -7,7 +7,7 @@
 ### 📫 How to reach me? 
 📧 Drop me an email at hannah.phillips@simplybusiness.co.uk
 
-🖇️ Connect with me on [LinkedIn](www.linkedin.com/in/hannah-phillips-cert-cii-103aa03b)
+🖇️ Connect with me on [LinkedIn](https://www.linkedin.com/in/hannah-phillips-cert-cii-103aa03b)
 
 ### Resources to level up:
 - [Codecademy](https://www.codecademy.com/profiles/hannahPhillips4226153778)

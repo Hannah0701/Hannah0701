@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Hannah!
 
-🏢 I’m currently working at Simply Business as a Senior Insurance Product Technician
+🏢 I’m currently working at Simply Business as an Apprentice Software Engineer
 
-🌱 I'm enrolled on a Level 4 Software Engineering Apprenticeship with Multiverse
+🌱 I have completed a Level 4 Software Engineering Apprenticeship with Multiverse - earning a Distinction!
 
 ### 📫 How to reach me? 
 📧 Drop me an email at hannah.phillips@simplybusiness.co.uk

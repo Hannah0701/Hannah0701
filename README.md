@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Hannah!
 
-🏢 I’m currently working at Simply Business as an Apprentice Software Engineer
+🏢 I’m currently working at Simply Business as a Junior Software Engineer
 
 🌱 I have completed a Level 4 Software Engineering Apprenticeship with Multiverse - earning a Distinction!
 
